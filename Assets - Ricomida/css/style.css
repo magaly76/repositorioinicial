@@ -1,0 +1,28 @@
+nav * {
+background-color: #373A3C;
+color: #ffffff;
+}
+
+nav .a {
+    color: #ffffff;
+}
+#ingredientes {
+color: black;
+}
+
+#preparacion {
+    color: black;
+}
+
+footer *{
+    background-color: #373A3C;
+    color: #ffffff;
+    font-family: "lobster";
+    font-size: xx-large;
+}
+
+#suscripcion *{
+background-color: #DC3545;
+color: #ffffff;
+
+}
